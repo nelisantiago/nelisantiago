@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @nelisantiago
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Studying English.
+- - 🌱 Passionate about technology...
+- - - 🌱 17 years old.
+- - - - 🌱 3 Years and 5 months in the technology market.
+- 💞️ Desenvolvedor Full Stack.
+- - 💞️ Cloud Engineer.
+- - - 💞️ Docker.
+- - - - 💞️ Ui Designer.
 
 <!---
 nelisantiago/nelisantiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
