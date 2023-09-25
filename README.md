@@ -3,7 +3,7 @@
 - - 🌱 Passionate about technology...
 - - - 🌱 17 years old.
 - - - - 🌱 3 Years and 5 months in the technology market.
-- 💞️ Desenvolvedor Full Stack.
+- 💞️ Full Stack Developer.
 - - 💞️ Cloud Engineer.
 - - - 💞️ Docker.
 - - - - 💞️ Ui Designer.
