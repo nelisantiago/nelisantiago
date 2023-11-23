@@ -2,7 +2,7 @@
 - 🌱 Studying English.
 - - 🌱 Passionate about technology...
 - - - 🌱 17 years old.
-- - - - 🌱 3 Years and 5 months in the technology market.
+- - - - 🌱 3 Years and 6 months in the technology market.
 - 💞️ Full Stack Developer.
 - - 💞️ Cloud Engineer.
 - - - 💞️ Docker.
