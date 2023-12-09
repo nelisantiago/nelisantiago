@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nelisantiago
-- 🌱 Studying English and Python.
+- 🌱 Studying Python.
 - - 🌱 Passionate about technology...
 - - - 🌱 17 years old.
 - - - - 🌱 3 Years and 6 months in the technology market.
